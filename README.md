@@ -1,4 +1,4 @@
 ## Hi, peeps! 👋
 
-### Languages and Tools
-![Tool 1](https://img.shields.io/badge/-[Tool]-lightgrey) ![Tool 2](https://img.shields.io/badge/-[Tool]-lightgrey) ...
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact)](https://github.com/[Your GitHub Username]/github-readme-stats)
